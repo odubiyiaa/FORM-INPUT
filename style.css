@@ -1,0 +1,26 @@
+form{
+    max-width: 600px;
+    background-color: bisque;
+    margin: 100px auto;
+    padding: 60px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+form div input {width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    border: solid 4px blue;
+    outline: 0;
+
+}
+form div input:focus {
+    border-color: brown;
+}
+.submit-style {
+    width:100px;
+    border-color: aqua;
+    margin: 40px auto;
+    text-align: center;
+}
+
